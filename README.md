@@ -1,4 +1,5 @@
 # gdbfrontInstaller
+cd Downloads
 
 sudo chmod +x install_gdb_frontend.sh
 
